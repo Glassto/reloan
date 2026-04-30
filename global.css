@@ -239,7 +239,7 @@
     }
 
     .auth-content {
-        @apply grow px-5 pb-10 pt-8;
+        @apply grow px-3 pb-10 pt-8;
     }
 
     .auth-brand-block {
@@ -275,7 +275,7 @@
     }
 
     .auth-card {
-        @apply mt-8 rounded-3xl border border-border bg-card p-5;
+        @apply mt-24 rounded-2xl border border-border bg-card p-4;
     }
 
     .auth-form {
@@ -291,7 +291,7 @@
     }
 
     .auth-input {
-        @apply rounded-2xl border border-border bg-background px-4 py-4 text-base font-sans-medium text-primary;
+        @apply rounded-xl border border-border bg-background px-2 py-6 text-base font-sans-medium text-primary;
     }
 
     .auth-input-error {
